@@ -57,16 +57,4 @@ I am a passionate developer currently pursuing my degree in **Artificial Intelli
 
 ---
 
-# 🏆 GitHub Trophies
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mhuzaifa-04&theme=tokyonight&column=6&margin-w=15&margin-h=15" alt="GitHub Trophies" />
-</p>
-
----
-
-# 🔝 Top Contributed Repo
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=mhuzaifa-04&repo=YOUR_FEATURED_REPO_NAME&theme=tokyonight&hide_border=true" alt="Featured Repository" />
-</p>
