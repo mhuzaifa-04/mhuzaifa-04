@@ -7,7 +7,7 @@ I am a passionate developer currently pursuing my degree in **Artificial Intelli
 * 🎓 **Education:** Pursuing B.E. in AI & Data Science
 * 💡 **Focus:** Machine Learning, Full-Stack Architecture & System Design
 * 🛠️ **Current Endeavors:** Building full-stack web applications and refining core data structures & algorithms
-* 📧 **Reach Me:** [mohammadhuzaifaa32@gmail.com](mailto:mohammadhuzaifaa32@gmail.com)
+* 📧 **Reach Me:** [mhuzaifa180.work@gmail.com](mailto:mhuzaifa180.work@gmail.com)
 
 ---
 
