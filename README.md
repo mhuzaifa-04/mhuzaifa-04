@@ -4,7 +4,7 @@
   
   **AI & Data Science Scholar | Full-Stack Engineer (.NET & Angular) | Intelligent Systems Builder**
   
-  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://YOUR_PORTFOLIO_URL_HERE)
+  [![Portfolio](https://img.shields.io/badge/Portfolio-Visit%20Website-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white)](https://mhuzaifa04.vercel.app)
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/mhuzaifa04)
   [![Gmail](https://img.shields.io/badge/Email-mhuzaifa180.work%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mhuzaifa180.work@gmail.com)
   [![GitHub](https://img.shields.io/badge/GitHub-mhuzaifa--04-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/mhuzaifa-04)
